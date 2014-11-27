@@ -9,4 +9,4 @@ Porting ffmpeg to android which enable h.264 and faac encode
 
 # Dear developers
 
-* If you want to make a contribution to this project, please contact [iappr.online](iappr.online@gmail.com)
+* If you want to make a contribution to this project, please contact iappr.online by iappr.online@gmail.com
