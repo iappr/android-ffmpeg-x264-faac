@@ -1,0 +1,6 @@
+##compile steps
+1. ./toolchain.sh
+2. cd x264;    ./build_x264.sh
+3. cd faac;    ./build_faac.sh
+4. cd ffmpeg;  ./build_ffmpeg.sh
+5. cd output;  tree
